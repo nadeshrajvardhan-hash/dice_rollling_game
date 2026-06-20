@@ -11,3 +11,4 @@ while True:
         break
     else:
         print("Invalid input. Please enter 'y' to roll or 'n' to quit.")
+        print("Press Enter to roll the dice... (y/n): ")
